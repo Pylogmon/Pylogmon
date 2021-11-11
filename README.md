@@ -3,5 +3,4 @@
 - 🔭 I’m currently working on UESTC
 - 🌱 I’m currently learning C++
 
-[![Ambition-echo's github stats](https://github-readme-stats.vercel.app/api?username=ambition-echo&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Ambition-echo's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ambition-echo&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ambition-echo&count_private=true&theme=calm&show_icons=true" alt="Clansty's GitHub stats" height="185px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambition-echo&layout=compact&langs_count=8&theme=calm" alt="Top Langs" height="185px" />
