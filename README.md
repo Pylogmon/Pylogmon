@@ -8,12 +8,15 @@
 <div align="center">
   
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
+[![OS:Deepin](https://img.shields.io/badge/OS-Deepin-blue?style=flat&logo=deepin)](https://www.deepin.org/)
+
+[![DE:DDE](https://img.shields.io/badge/DE-DDE-blue?style=flat&logo=deepin)](https://www.deepin.org/)
 [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-orange?style=flat&logo=gnome)](https://www.gnome.org)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:QtCreator](https://img.shields.io/badge/IDE-QtCreator-green?style=flat&logo=qt)](https://www.qt.io/)
 
-[![email](https://img.shields.io/badge/Email-ambition_echo@outlook.com-blue?style=flat&logo=gmail)](mailto:ambition_echo@outlook.com)
+[![email](https://img.shields.io/badge/Email-ambition_echo@outlook.com-red?style=flat&logo=gmail)](mailto:ambition_echo@outlook.com)
 [![telegram](https://img.shields.io/badge/Telegram-ambition_echo-blue?style=flat&logo=telegram)](https://t.me/ambition_echo)
 
 </div>
