@@ -23,12 +23,12 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambition-echo&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambition-echo&theme=nord_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambition-echo&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambition-echo&theme=nord_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambition-echo&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambition-echo&theme=nord_dark" />
   </a>
 </div>
