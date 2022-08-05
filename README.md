@@ -10,6 +10,7 @@
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
 [![OS:Deepin](https://img.shields.io/badge/OS-Deepin-blue?style=flat&logo=deepin)](https://www.deepin.org/)
 
+[![DE:GNOME](https://img.shields.io/badge/DE-KDE-blue?style=flat&logo=kde)](https://kde.org)
 [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-orange?style=flat&logo=gnome)](https://www.gnome.org)
 [![DE:DDE](https://img.shields.io/badge/DE-DDE-blue?style=flat&logo=deepin)](https://www.deepin.org/)
 
