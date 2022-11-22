@@ -18,6 +18,8 @@
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:QtCreator](https://img.shields.io/badge/IDE-QtCreator-green?style=flat&logo=qt)](https://www.qt.io/)
+[![IDE:PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IDE:Clion](https://img.shields.io/badge/IDE-Clion-green?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
 
 [![Email](https://img.shields.io/badge/Email-ambition_echo@outlook.com-red?style=flat&logo=gmail)](mailto:ambition_echo@outlook.com)
 [![Telegram](https://img.shields.io/badge/Telegram-ambition_echo-blue?style=flat&logo=telegram)](https://t.me/ambition_echo)
