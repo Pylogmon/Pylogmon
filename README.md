@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Rust
 
 <div align="center">
-[![Visitor](https://visitor-badge.glitch.me/badge?page_id=ambition-echo.readme)]()
+  
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=ambition-echo.readme)
 
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
 [![OS:Deepin](https://img.shields.io/badge/OS-Deepin-blue?style=flat&logo=deepin)](https://www.deepin.org/)
