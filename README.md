@@ -21,19 +21,18 @@
 [![IDE:PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IDE:Clion](https://img.shields.io/badge/IDE-Clion-green?style=flat&logo=clion)](https://www.jetbrains.com/clion/)
 
-[![Email](https://img.shields.io/badge/Email-ambition_echo@outlook.com-red?style=flat&logo=gmail)](mailto:ambition_echo@outlook.com)
-[![Telegram](https://img.shields.io/badge/Telegram-ambition_echo-blue?style=flat&logo=telegram)](https://t.me/ambition_echo)
-[![Twitter](https://img.shields.io/badge/Twitter-ambitionecho-blue?style=flat&logo=twitter)](https://twitter.com/ambitionecho)
+[![Email](https://img.shields.io/badge/Email-pylogmon@outlook.com-red?style=flat&logo=gmail)](mailto:pylogmon@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Pylogmon-blue?style=flat&logo=twitter)](https://twitter.com/pylogmon)
 </div>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambition-echo&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pylogmon&theme=nord_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambition-echo&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pylogmon&theme=nord_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ambition-echo&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pylogmon&theme=nord_dark" />
   </a>
 </div>
