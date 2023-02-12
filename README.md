@@ -23,6 +23,7 @@
 
 [![Email](https://img.shields.io/badge/Email-pylogmon@outlook.com-red?style=flat&logo=gmail)](mailto:pylogmon@outlook.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Pylogmon-blue?style=flat&logo=twitter)](https://twitter.com/pylogmon)
+[![Matrix](https://img.shields.io/badge/Matrix-@pylogmon:matrix.org-green?style=flat&logo=matrix)](https://matrix.to/#/@pylogmon:matrix.org)
 </div>
 
 <div align="center">
