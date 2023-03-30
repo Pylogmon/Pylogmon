@@ -34,6 +34,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pylogmon&theme=nord_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pylogmon&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pylogmon&theme=nord_dark" />
   </a>
 </div>
