@@ -1,9 +1,7 @@
-# Hi Ambition-echo there 👋
+# Hi I'm Pylogmon 👋
 
-
-
-- 🔭 I’m currently working on C/C++
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on Rust
+- 🌱 I’m currently learning React
 
 <div align="center">
   
