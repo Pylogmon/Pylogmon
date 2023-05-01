@@ -1,8 +1,4 @@
-# Hi I'm Pylogmon 👋
-
-- 🔭 I’m currently working on Rust
-- 🌱 I’m currently learning React
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 <div align="center">
   
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=ambition-echo.readme)
