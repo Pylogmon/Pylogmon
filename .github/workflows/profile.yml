@@ -40,31 +40,3 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-  pot-contributions:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: pot-contributions.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: pot
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
-  pot-stars:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: pot-stars.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          template: repository
-          repo: pot
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
