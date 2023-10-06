@@ -25,7 +25,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          plugin_languages_ignored: dockerfile, html, css, python
+          plugin_languages_ignored: dockerfile, html, css, python, shell
           plugin_languages_limit: 5
           
           plugin_lines: yes
